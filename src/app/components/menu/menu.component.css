@@ -1,0 +1,11 @@
+.menu-vertical{
+    padding-left: 20px;
+}
+
+.menu-vertical a{
+    color: white;
+}
+
+.menu-vertical a:hover{
+    color: #e26628;
+}
